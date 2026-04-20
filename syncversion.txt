@@ -81,3 +81,6 @@ chunkraw 1776729310 https://github.com/TaYaKi71751/chunk/releases/download/17767
 chunk 1776729368 https://github.com/TaYaKi71751/chunk/releases/download/1776729368/data-639123261683422508.json 2
 chunkraw 1776729368 https://github.com/TaYaKi71751/chunk/releases/download/1776729368/data-639123261683422508.db 8192
 db 1776729190 https://github.com/TaYaKi71751/db/releases/download/1776729190/rawdata
+chunk 1776729426 https://github.com/TaYaKi71751/chunk/releases/download/1776729426/data-639123262266180291.json 354
+chunkraw 1776729426 https://github.com/TaYaKi71751/chunk/releases/download/1776729426/data-639123262266180291.db 8192
+db 1776729249 https://github.com/TaYaKi71751/db/releases/download/1776729249/rawdata
