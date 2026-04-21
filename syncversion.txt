@@ -1,9 +1,1 @@
-chunk https://github.com/TaYaKi71751/chunk/releases/download/1776741429/data-639123382295073294.db.db 8192
-chunk https://github.com/TaYaKi71751/chunk/releases/download/1776741429/data-639123382295073294.json 872
-chunk https://github.com/TaYaKi71751/chunk/releases/download/1776741702/data-639123385022592147.db.db 8192
-chunk https://github.com/TaYaKi71751/chunk/releases/download/1776741702/data-639123385022592147.json 389
-chunk https://github.com/TaYaKi71751/chunk/releases/download/1776741936/data-639123387365390198.db.db 8192
-chunk https://github.com/TaYaKi71751/chunk/releases/download/1776741936/data-639123387365390198.json 993
-chunk https://github.com/TaYaKi71751/chunk/releases/download/1776742138/data-639123389381720791.db.db 8192
-chunk https://github.com/TaYaKi71751/chunk/releases/download/1776742138/data-639123389381720791.json 434
-db https://github.com/TaYaKi71751/db/releases/download/1776743783/rawdata
+db https://github.com/TaYaKi71751/db/releases/download/1776744719/rawdata
