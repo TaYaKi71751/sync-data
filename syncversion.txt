@@ -25,3 +25,4 @@ db 1776736160 https://github.com/TaYaKi71751/db/releases/download/1776736160/raw
 db 1776736338 https://github.com/TaYaKi71751/db/releases/download/1776736338/rawdata
 db 1776735922 https://github.com/TaYaKi71751/db/releases/download/1776735922/rawdata
 db 1776735867 https://github.com/TaYaKi71751/db/releases/download/1776735867/rawdata
+db 1776736284 https://github.com/TaYaKi71751/db/releases/download/1776736284/rawdata
