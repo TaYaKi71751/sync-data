@@ -1,2 +1,1 @@
-chunk 1781990238 https://github.com/TaYaKi71751/chunk/releases/download/1781990238/data-1781990238.db 450560
-chunk 1781990238 https://github.com/TaYaKi71751/chunk/releases/download/1781990238/data-1781990238.json 714133
+db 1781991886 https://github.com/TaYaKi71751/db/releases/download/1781991886/rawdata
