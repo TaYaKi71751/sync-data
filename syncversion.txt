@@ -1,1 +1,3 @@
 db 1781991886 https://github.com/TaYaKi71751/db/releases/download/1781991886/rawdata
+chunk 1781992304 https://github.com/TaYaKi71751/chunk/releases/download/1781992304/data-1781992304.db 466944
+chunk 1781992304 https://github.com/TaYaKi71751/chunk/releases/download/1781992304/data-1781992304.json 760516
