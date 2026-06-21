@@ -394,3 +394,4 @@ chunk 1782031335 https://github.com/TaYaKi71751/chunk/releases/download/17820313
 db 1782031335 https://github.com/TaYaKi71751/db/releases/download/1782031335/rawdata
 chunk 1782031635 https://github.com/TaYaKi71751/chunk/releases/download/1782031635/data-1782031635.db 413696
 chunk 1782031635 https://github.com/TaYaKi71751/chunk/releases/download/1782031635/data-1782031635.json 656727
+db 1782031635 https://github.com/TaYaKi71751/db/releases/download/1782031635/rawdata
