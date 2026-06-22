@@ -1111,3 +1111,4 @@ chunk 1782154999 https://github.com/TaYaKi71751/chunk/releases/download/17821549
 db 1782154999 https://github.com/TaYaKi71751/db/releases/download/1782154999/rawdata
 chunk 1782155606 https://github.com/TaYaKi71751/chunk/releases/download/1782155606/data-1782155606.db 475136
 chunk 1782155606 https://github.com/TaYaKi71751/chunk/releases/download/1782155606/data-1782155606.json 729160
+db 1782155606 https://github.com/TaYaKi71751/db/releases/download/1782155606/rawdata
